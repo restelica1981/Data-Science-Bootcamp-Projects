@@ -5,7 +5,9 @@ Description: This project analyzes the US Arrests dataset from 1973. The dataset
 Table of Contents:
 
 Installation
+
 Usage
+
 Credits
 
 Installation:
