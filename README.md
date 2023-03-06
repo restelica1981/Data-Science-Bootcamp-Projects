@@ -1,16 +1,26 @@
-# Final Capstone
+Project Name: US Arrests Analysis
 
-This dataset is from the US Arrests Kaggle challenge (link). A description of the
-data is given as: “This data set contains statistics, in arrests per 100,000 residents,
-for assault, murder, and rape in each of the 50 US states in 1973. Also given is the
-percent of the population living in urban areas.”
+Description: This project analyzes the US Arrests dataset from 1973. The dataset contains statistics, in arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas. The goal of this project is to perform exploratory data analysis (EDA) and use machine learning techniques to identify patterns in the data.
 
-Follow these steps:
+Table of Contents:
 
-● Use the dataset UsArrests.csv included in this folder to generate a similar
-in-depth PCA report of the data. Explore as much as you can, motivate the
-pre-processing steps you take, and interpret the outcomes of any analyses.
+Installation
+Usage
+Credits
 
-● You are also required to do an application of two clustering techniques and
-an analysis of the clusters they generate. Try and see if you can find anything
-common within each cluster that has been found.
+Installation:
+
+Clone the repository to your local machine.
+Install the required packages using pip: pip install -r requirements.txt
+Run the Jupyter Notebook US Arrests Analysis.ipynb using Jupyter Notebook
+
+Usage:
+
+Open the Jupyter Notebook US Arrests Analysis.ipynb.
+
+Follow the instructions provided in the task PDF to perform exploratory data analysis (EDA) and apply machine learning techniques to identify patterns in the data.
+The notebook contains detailed explanations and visualizations of the data, as well as code snippets and explanations of how to perform PCA and clustering on the dataset.
+
+
+Credits:
+This project was created by Caroline Townend
